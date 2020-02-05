@@ -1,0 +1,76 @@
+title: IAGML
+tagline: IAGML
+subtitle: "IAG &#8226; USP"
+email: your-email@example.com
+description: >-
+  IAG USP
+baseurl: ""
+url: "https://iagml.github.io"
+twitter_username: jekyllrb
+github_username:  jekyll
+permalink: pretty
+
+paginate: 5
+paginate_path: "/blog/page:num"
+
+markdown: kramdown
+highlighter: rouge
+
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - kramdown
+  - rouge
+
+exclude:
+  - "*.gemspec"
+  - "package*.json"
+  - "*.lock"
+  - Gemfile
+  - README.md
+  - LICENSE.txt
+  - node_modules
+  - vendor
+  - scripts
+
+livereload: true
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      show_sidebar: true
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      permalink: /blog/:year/:month/:slug
+      layout: post
+      image: https://via.placeholder.com/1200x800
+      show_sidebar: true
+      excerpt_separator: <!--more-->
+  -
+    scope:
+      path: ""
+      type: "authors"
+    values:
+      layout: "author"
+      permalink: "/authors/:title/"
+
+include: ['_pages']
+
+collections:
+  pgs:
+    output: true
+    layout: page
+    show_sidebar: true
+    permalink: /:name/
+  authors:
+    output: true
+    layout: author
