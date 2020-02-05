@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: iagml/website
+  repo: ErikVini/website
   branch: master
 media_folder: 'assets/uploads'
 collections:

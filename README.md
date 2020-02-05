@@ -1,17 +1,17 @@
-# IAGML Website
+# Website do Workshop SPAnet de Machine Learning em Astronomia
 
-[![build status](https://travis-ci.org/iagml/website.svg?branch=master)](https://travis-ci.org/iagml/website)
-![last commit](https://img.shields.io/github/last-commit/iagml/iagml.github.io)
+[![build status](https://travis-ci.org/wosmla/website.svg?branch=master)](https://travis-ci.org/wosmla/website)
+![last commit](https://img.shields.io/github/last-commit/wosmla/wosmla.github.io)
 
 [![powered by Github Pages](https://img.shields.io/badge/powered%20by-Github%20Pages-171717?logo=github)](https://pages.github.com)
 [![powered by Jekyll](https://img.shields.io/badge/powered%20by-Jekyll-E0115F?logo=jekyll)](https://jekyllrb.com)
 [![made with Bootstrap](https://img.shields.io/badge/made%20with-bootstrap-602c50?logo=bootstrap)](https://getbootstrap.com)
-![licence](https://img.shields.io/github/license/iagml/iagml.github.io)
+![licence](https://img.shields.io/github/license/wosmla/wosmla.github.io)
 
 ## Sobre
 
-Repositório do site IAGML: Sistemas inteligentes para descoberta em Astronomia.
-Acesse o site neste link: [iagml.github.io](https://iagml.github.io)
+Repositório do site WoSMLA: Workshop SPAnet de Machine Learning em Astronomiaa.
+Acesse o site neste link: [wosmla.github.io](https://wosmla.github.io)
 
 ## License
 

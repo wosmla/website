@@ -1,10 +1,12 @@
 - name: Início
-  link: /
-- name: Projeto
-  link: /projeto/
-- name: Recursos
-  link: /recursos/
-- name: Surveys
-  link: /surveys/
-- name: Blog
-  link: /blog/
+  link: /website/
+- name: Local
+  link: /website/local/
+- name: Palestras
+  link: /website/palestras/
+- name: Lista de participantes
+  link: /website/participantes/
+- name: Inscrição
+  link: /website/incricao/
+- name: Contato
+  link: /website/contato/
