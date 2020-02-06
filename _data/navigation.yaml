@@ -1,18 +1,18 @@
 - name: Início
-  link: /website/
+  link: /
 - name: Local
-  link: /website/local/
+  link: /local/
 - name: Palestras
-  link: /website/palestras/
+  link: /palestras/
 - name: Lista de participantes
-  link: /website/participantes/
+  link: /participantes/
 - name: Inscrição
-  link: /website/inscricao/
+  link: /inscricao/
 - name: Contato
-  link: /website/contato/
+  link: /contato/
 - name: TestePart
-  link: /website/testpart/
+  link: /testpart/
 - name: TesteForm
-  link: /website/testform/
+  link: /testform/
 - name: TesteMaps
-  link: /website/testmaps/
+  link: /testmaps/
