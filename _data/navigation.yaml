@@ -10,5 +10,9 @@
   link: /website/inscricao/
 - name: Contato
   link: /website/contato/
-- name: Teste
-  link: /website/test/
+- name: TestePart
+  link: /website/testpart/
+- name: TesteForm
+  link: /website/testform/
+- name: TesteMaps
+  link: /website/testmaps/
