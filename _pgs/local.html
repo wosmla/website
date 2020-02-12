@@ -6,15 +6,31 @@ layout: default
     boldtitle="true" %}
 
 <section style="padding: 6rem 0; background: rgb(241, 242, 243);">
-  <div class="container">
+  <div class="container", style="max-width:1540px">
     <div class="row">
       <div class="col-xl-8 mx-auto text-justify">
         <p class="lead">
           O evento será sediado no Instituto Mauá de Tecnologia, no Campus de São Caetano do Sul, localizado no endereço Praça Mauá 1, São Caetano do Sul - SP.
         </p>
       </div>
-      
-      <img src="/assets/img/mauamapa.png" alt="Mauá Mapa" style="scale:0.7"> 
+      <div class="col-xl-8 mx-auto text-justify">
+          
+        <script>
+          (function(d, s, id) {
+              var js, fjs = d.getElementsByTagName(s)[0];
+              js = d.createElement(s); js.id = id;
+              js.src = "https://widgets.moovit.com/wtp/pt-br";
+              fjs.parentNode.insertBefore(js, fjs);
+          }(document, 'script', 'moovit-jsw'));
+        </script>
+          
+        <div class="mv-wtp", style="width:100%; height:700px"
+           data-lang="pt-br"
+           data-to="Instituto Mauá de Tecnologia"
+           data-to-lat-long="-23.648294_-46.573553"
+        </div>
+          
+      </div>      
     </div>
   </div>
 </section>
