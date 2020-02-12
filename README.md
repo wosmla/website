@@ -10,7 +10,7 @@
 
 ## Sobre
 
-Repositório do site WoSMLA: Workshop SPAnet de Machine Learning em Astronomia.
+Repositório do site MaLeA: Workshop SPAnet de Machine Learning em Astronomia.
 Acesse o site neste link: [wosmla.github.io](https://wosmla.github.io)
 
 ## License
