@@ -1,11 +1,11 @@
-title: WoSMLA
-tagline: WoSMLA
+title: MaLeA
+tagline: MaLeA
 subtitle: "Workshop SPAnet de Machine Learning em Astronomia"
 email: your-email@example.com
 description: >-
   Workshop SPAnet de Machine Learning em Astronomia
 baseurl: ""
-url: "https://wosamla.github.io"
+url: "https://malea.github.io"
 twitter_username: jekyllrb
 github_username:  jekyll
 permalink: pretty
